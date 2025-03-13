@@ -1,0 +1,6 @@
+@KoperasiTentera.Core_HostAddress = http://localhost:5105
+
+GET {{KoperasiTentera.Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
